@@ -7,6 +7,4 @@ Hi, I’m @Tashi357 👋
 - ⚡ Fun fact: I love exploring new data sets and uncovering insights hidden in the numbers. When I’m not coding, you’ll find me hiking or reading about the latest in technology and science.
 
 
-Tashi357/Tashi357 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
