@@ -1,10 +1,19 @@
-Hi, I’m @Tashi357 👋
+# Welcome to @Tashi357's GitHub 👋
+- 👀 Hi there! I'm Tashi Tamang, a passionate Data Analyst with a strong background in SQL, Python, Machine Learning, Data Visualization]. I      enjoy turning complex data into actionable insights and have experience working with large datasets and various data analysis tools.
+-📍 Based in New York, USA.
+- 💼 Currently working at Walmart
+- 🖥️ Proficient in SQL, Python, Tableau, Power BI, and more
 
-- 👀 I’m interested in Data Analysis, Machine Learning, and Business Intelligence.
-- 🌱 I’m currently learning Python, SQL, and Advanced Data Visualization techniques.
-- 💞️ I’m looking to collaborate on data-driven projects and open-source analytics tools.
-- 📫 How to reach me: [Email](tashitamang.np@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tashi-tamang357/) | 
-- ⚡ Fun fact: I love exploring new data sets and uncovering insights hidden in the numbers. When I’m not coding, you’ll find me hiking or reading about the latest in technology and science.
+## Skills
+- Programming Languages: Python, SQL, R, etc.
+- Data Analysis: Pandas, NumPy, Scikit-learn, etc.
+- Data Visualization: Tableau, Power BI, Matplotlib, Seaborn
+- Databases: MySQL, PostgreSQL, SQLite
+- Tools and Platforms: Git, Jupyter Notebook, Hadoop, Spark
 
+## Contact
+  Feel free to reach out if you have any questions or want to collaborate on a project!
+- 📧 Email: [Email](tashitamang.np@gmail.com)
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/tashi-tamang357/) |
 
-
+Thank you for visiting my GitHub profile! 😊
